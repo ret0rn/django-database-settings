@@ -1,6 +1,5 @@
 # Django database settings
 
----
 
 - [PostgreSQL](#postgresql)
 
